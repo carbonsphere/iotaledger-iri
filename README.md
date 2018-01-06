@@ -10,7 +10,7 @@ http://iota.partners/
 
 ## IRI Version
 
-iotaledger-iri :  1.4.1.4 Release
+iotaledger-iri :  1.4.1.6 Release
 
 ## Official iotaledger-iri
 
